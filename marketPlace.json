@@ -1,0 +1,176 @@
+[
+  {
+    "id": "27",
+    "keyInfo": "amzon",
+    "marketplace": "PLxC6ZbqZshu4i-IxDoyJTt8gQTPJxsEIc"
+  },
+  {
+    "id": "29",
+    "keyInfo": "amzon",
+    "marketplace": "PL1d24vjDT5J-xoOBmDhEKpbaw0RkixtgT"
+  },
+  { "id": "30", "keyInfo": "ebay", "marketplace": "tjNRtb0fW70" },
+  { "id": "31", "keyInfo": "ebay", "marketplace": "j1ckyzz2pEI" },
+  { "id": "35", "keyInfo": "Amazon.ca", "marketplace": "_y1tg1RCqNc" },
+  { "id": "36", "keyInfo": "Amazon.ca", "marketplace": "aSKKfo7oEKU" },
+  {
+    "id": "37",
+    "keyInfo": "JD.com",
+    "marketplace": "PLUnrpT3bDZJEFUFSidY0cx34_lCjapctl"
+  },
+  { "id": "38", "keyInfo": "Amazon.ca", "marketplace": "BuY4clcP5NY" },
+  { "id": "39", "keyInfo": "Amazon.com", "marketplace": "lN6dh15URE8" },
+  { "id": "40", "keyInfo": "JD.com", "marketplace": "XjKsB9cr3kU" },
+  { "id": "41", "keyInfo": "Amazon.co.uk", "marketplace": "B2MNfh6S8Z0" },
+  {
+    "id": "42",
+    "keyInfo": "Shopify",
+    "marketplace": "PLTPaIH9B6Rn7gmh3Yg5UVgeeHpOHSv37u"
+  },
+  {
+    "id": "43",
+    "keyInfo": "JD.com",
+    "marketplace": "PLTPaIH9B6Rn6D5DV1vVS5f1SH8ohzbTeu"
+  },
+  { "id": "44", "keyInfo": "JD.com", "marketplace": "ijsP_9ARboU" },
+  { "id": "45", "keyInfo": "Shopify", "marketplace": "LSDxsITo8cc" },
+  {
+    "id": "46",
+    "keyInfo": "eBay.com",
+    "marketplace": "PLpKJE_QBfVSlsbNZY8SCex2_GsJEbl84D"
+  },
+  {
+    "id": "47",
+    "keyInfo": "Amazon.com.mx",
+    "marketplace": "PLeT4xn_k_pYMXIt2AGCgwwgtjc6B0nhCJ"
+  },
+  {
+    "id": "48",
+    "keyInfo": "Shopify",
+    "marketplace": "PLaJkzbmtj0wt7tt1aDBy1rzgxjTxUaJiG"
+  },
+  {
+    "id": "51",
+    "keyInfo": "eBay.com",
+    "marketplace": "PLO3pv7vGP9mlPs0ywjgpQXyD_ARRxAIeK"
+  },
+  {
+    "id": "53",
+    "keyInfo": "Amazon.ca",
+    "marketplace": "PLimb9kwEAhKrxeQ854LtdpHapNwcsuY3W"
+  },
+  {
+    "id": "54",
+    "keyInfo": "Amazon.com",
+    "marketplace": "PLemVMSyQuQSZY4MsIWYZoLkvmi5AY8AWu"
+  },
+  {
+    "id": "55",
+    "keyInfo": "eBay.com",
+    "marketplace": "PLemVMSyQuQSb2pTSCD8RCCKdPqksY--JK"
+  },
+  {
+    "id": "56",
+    "keyInfo": "JD.com",
+    "marketplace": "PLemVMSyQuQSZVfkJtgNLRleJLApc8BISk"
+  },
+  { "id": "63", "keyInfo": "Amazon.co.uk", "marketplace": "2MCBOsIVdYk" },
+  { "id": "65", "keyInfo": "Amazon.ca", "marketplace": "GoXPbGQl-uQ" },
+  { "id": "66", "keyInfo": "JD.com", "marketplace": "0GN8t2u3flc" },
+  { "id": "67", "keyInfo": "JD.com", "marketplace": "vEO6wO0QsX8" },
+  { "id": "68", "keyInfo": "eBay.com", "marketplace": "xroVnSfnoCc" },
+  { "id": "77", "keyInfo": "Amazon.com.mx", "marketplace": "29AVerIkHPQ" },
+  {
+    "id": "78",
+    "keyInfo": "Amazon.ca",
+    "marketplace": "PLs7TzBwHKDjLOVpD9E6dyAMROiQeA1k_e"
+  },
+  { "id": "79", "keyInfo": "Amazon.com.mx", "marketplace": "z7XG7ykP1SA" },
+  { "id": "80", "keyInfo": "Amazon.ca", "marketplace": "xa9RjZ5FveM" },
+  {
+    "id": "81",
+    "keyInfo": "Amazon.com",
+    "marketplace": "PLxDecps36oCeOUJ_MGdg_abdWUDuM0NaP"
+  },
+  {
+    "id": "82",
+    "keyInfo": "Amazon.co.uk",
+    "marketplace": "PLxDecps36oCc8ua8yI4_ZkdOMKXfJuSZ-"
+  },
+  { "id": "83", "keyInfo": "Amazon.com", "marketplace": "H7Wv6Vr0X1I" },
+  { "id": "84", "keyInfo": "eBay.com", "marketplace": "HPv_7Hwp5bM" },
+  { "id": "85", "keyInfo": "JD.com", "marketplace": "zjZ4slowZOE" },
+  { "id": "88", "keyInfo": "eBay.com", "marketplace": "LpCLBWVD2Gg" },
+  { "id": "89", "keyInfo": "Amazon.ca", "marketplace": "MAwzuVP5Was" },
+  { "id": "98", "keyInfo": "Shopify", "marketplace": "uZ9lz7X7vw0" },
+  { "id": "101", "keyInfo": "eBay.com", "marketplace": "15DzYCkgAAE" },
+  { "id": "102", "keyInfo": "eBay.com", "marketplace": "d2t_U71fG9c" },
+  { "id": "103", "keyInfo": "JD.com", "marketplace": "uzBPetGKbNQ" },
+  { "id": "107", "keyInfo": "Shopify", "marketplace": "vM5Htmv84Ms" },
+  { "id": "109", "keyInfo": "Amazon.co.uk", "marketplace": "89yRoGEnlEQ" },
+  { "id": "110", "keyInfo": "Shopify", "marketplace": "7-xZUipENQE" },
+  { "id": "111", "keyInfo": "eBay.com", "marketplace": "-yzAcONK7WY" },
+  { "id": "119", "keyInfo": "eBay.com", "marketplace": "HnfpTMtfFk8" },
+  { "id": "127", "keyInfo": "Shopify", "marketplace": "T2DZRwIzv7I" },
+  { "id": "128", "keyInfo": "Amazon.com", "marketplace": "6eERK87OG-I" },
+  {
+    "id": "129",
+    "keyInfo": "Amazon.com.mx",
+    "marketplace": "PLjGNfWIQbUlHJ1DjHHsfcaPbkIGdoUga_"
+  },
+  { "id": "131", "keyInfo": "Amazon.ca", "marketplace": "bulLHOaeq-o" },
+  { "id": "138", "keyInfo": "JD.com", "marketplace": "fGX8RmRz8Rw" },
+  { "id": "139", "keyInfo": "JD.com", "marketplace": "8EihuEbqiBA" },
+  { "id": "143", "keyInfo": "Amazon.com.mx", "marketplace": "6kfBMHJYA-8" },
+  { "id": "144", "keyInfo": "eBay.com", "marketplace": "vXkNcXcjK0Y" },
+  {
+    "id": "145",
+    "keyInfo": "Amazon.ca",
+    "marketplace": "PLPFqZrH3YK7WTZ7Yt9b1qxQo1LKh78HHn"
+  },
+  { "id": "146", "keyInfo": "Shopify", "marketplace": "goCBICIJYTE" },
+  { "id": "147", "keyInfo": "Amazon.ca", "marketplace": "XxiPdZpf7fo" },
+  { "id": "148", "keyInfo": "JD.com", "marketplace": "YjYR5fwM160" },
+  { "id": "149", "keyInfo": "JD.com", "marketplace": "TjXGEIDrPv0" },
+  { "id": "151", "keyInfo": "Amazon.com", "marketplace": "  seaUegDqRmo" },
+  {
+    "id": "152",
+    "keyInfo": "Amazon.ca",
+    "marketplace": "PLxF3tudzlzeOj3nU7a02t28LalkkJqkMf"
+  },
+  { "id": "153", "keyInfo": "eBay.com", "marketplace": "KTU_UrPpeM0" },
+  {
+    "id": "154",
+    "keyInfo": "eBay.com",
+    "marketplace": "PLi8ABUDEJkRAHOvo8f6apkf7npdElFU0m"
+  },
+  {
+    "id": "155",
+    "keyInfo": "JD.com",
+    "marketplace": "PLODgjOVah37Of4kbw8GHzyf0h_BWdQOh_"
+  },
+  {
+    "id": "156",
+    "keyInfo": "Amazon.ca",
+    "marketplace": "PLg319jldgK5nnnpdgCZYfDODpwJbM-I_O"
+  },
+  {
+    "id": "157",
+    "keyInfo": "Amazon.ca",
+    "marketplace": "PLVSXvBf54cuC8vEuMYDzXGuC - JkliUzrz"
+  },
+  {
+    "id": "158",
+    "keyInfo": "Amazon.com.mx",
+    "marketplace": "PLgzk1JY1XwL67zk1BWhBa8LsrWXpPyNCm"
+  },
+  { "id": "159", "keyInfo": "Amazon.ca", "marketplace": "n4ccRReLHBY" },
+  { "id": "160", "keyInfo": "eBay.com", "marketplace": "lOzIrvGpDS4" },
+  { "id": "161", "keyInfo": "eBay.com", "marketplace": "1s_NJVjtuR8" },
+  { "id": "162", "keyInfo": "eBay.com", "marketplace": "iPrzhd_eskQ" },
+  { "id": "163", "keyInfo": "Shopify", "marketplace": "5dkaMkcTgNA" },
+  { "id": "164", "keyInfo": "Amazon.co.uk", "marketplace": "NzVR4kiAiqg" },
+  { "id": "165", "keyInfo": "Amazon.ca", "marketplace": "BKLfMx5hscI" },
+  { "id": "166", "keyInfo": "eBay.com", "marketplace": "PIB_78N1ct0" },
+  { "id": "167", "keyInfo": "Amazon.com", "marketplace": "iYU8C3TEzgw" }
+]

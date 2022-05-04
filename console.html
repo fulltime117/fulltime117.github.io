@@ -1,0 +1,121 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Console</title>
+    <link href="css/console.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="console-page">
+        <pre>
+    npx react-native run-android
+    npx react-native start --port 8084 --reset-cache
+    npx react-native run-android --port 8084
+
+    adb connect 127.0.0.1:21503
+    adb devices
+
+    -----------------------------------------
+
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#186ca4",
+        "activityBar.background": "#186ca4",
+        "statusBar.background": "#186ca4",
+      },
+
+    --------------------------
+
+    git config --global user.name "NicolaePop"
+    git config --global user.email "nicolaepop055@gmail.com"
+
+    ------------------------------
+
+    git config --global user.name "MingXue" 
+    git config --global user.email "mingxue@ordering.co"
+
+    ---------------------------------------------
+
+    dragonteam@ordering.co
+    HappyOrdering2018
+
+    --------------------------------------------
+
+
+    -> .eslintrc.js ->
+    module.exports = {
+      root: true,
+      extends: '@react-native-community',
+      rules: {'prettier/prettier': ['error', {endOfLine: 'auto'}]},
+    };
+
+    Added  "eslint.enable": false  to my  .vs/settings.json  file.
+
+
+    --------------------------------------------
+
+    ${props => props.theme?.rtl && css`
+        margin-right: 10px;
+        margin-left: 0;
+    `}
+
+    background: ${props => props.theme.colors.backgroundPage};
+
+    width: ${({ isPopup }) => isPopup ? '100%' : '35%'};
+
+    ${props => props.theme?.rtl ? css`
+        right: 0;
+    ` : css`
+        left: 0;
+    `}
+
+    ${({ borderBottom }) => borderBottom && css`
+      border-bottom: 2px solid ${props => props.theme.colors.primary};
+    `}
+
+    export const ContactsContainer = styled(OrdersOrderByOptionContainer)``
+
+
+
+    -----------------------------------------
+    
+    
+    import { useWindowSize } from '../../../../../hooks/useWindowSize'
+
+    const windowSize = useWindowSize()
+
+    {windowSize.width < 850 && ()}
+
+    ------------------------------------------
+
+    @media (min-width: 768px) {
+        flex-direction: row;
+    }
+    
+
+    ------------------------------------------
+
+    const [comments, setComments] = useState<Array<any>>([])
+    const [extraComment, setExtraComment] = useState('')
+    const [alertState, setAlertState] = useState<{ open: boolean, content: Array<any>, success?: boolean }>({ open: false, content: [], success: false })
+
+
+        </pre>
+    </div>
+    <div id="ff">
+        <div class="f-wrapper">
+            <div class="f-pl">
+
+            </div>
+            <div class="f-action">
+
+            </div>
+        </div>
+    </div>
+
+
+</body>
+
+</html>
