@@ -2,7 +2,7 @@
   {
     "id": "27",
     "keyInfo": "amzon",
-    "marketplace": "PLxC6ZbqZshu4i-IxDoyJTt8gQTPJxsEIc"
+    "marketplace": "PLv1l60OHLGdkmY5EWvm6FpQaTt7kxfazX"
   },
   {
     "id": "29",
@@ -75,11 +75,11 @@
     "marketplace": "PLemVMSyQuQSZVfkJtgNLRleJLApc8BISk"
   },
   { "id": "63", "keyInfo": "Amazon.co.uk", "marketplace": "2MCBOsIVdYk" },
-  { "id": "65", "keyInfo": "Amazon.ca", "marketplace": "GoXPbGQl-uQ" },
-  { "id": "66", "keyInfo": "JD.com", "marketplace": "0GN8t2u3flc" },
-  { "id": "67", "keyInfo": "JD.com", "marketplace": "vEO6wO0QsX8" },
-  { "id": "68", "keyInfo": "eBay.com", "marketplace": "xroVnSfnoCc" },
-  { "id": "77", "keyInfo": "Amazon.com.mx", "marketplace": "29AVerIkHPQ" },
+  { "id": "24", "keyInfo": "Amazon.ca", "marketplace": "d19yj5Xys2k" },
+  { "id": "25", "keyInfo": "JD.com", "marketplace": "0GN8t2u3flc" },
+  { "id": "26", "keyInfo": "JD.com", "marketplace": "vEO6wO0QsX8" },
+  { "id": "27", "keyInfo": "eBay.com", "marketplace": "xroVnSfnoCc" },
+  { "id": "28", "keyInfo": "Amazon.com.mx", "marketplace": "29AVerIkHPQ" },
   {
     "id": "78",
     "keyInfo": "Amazon.ca",
@@ -107,9 +107,9 @@
   { "id": "102", "keyInfo": "eBay.com", "marketplace": "d2t_U71fG9c" },
   { "id": "103", "keyInfo": "JD.com", "marketplace": "uzBPetGKbNQ" },
   { "id": "107", "keyInfo": "Shopify", "marketplace": "vM5Htmv84Ms" },
-  { "id": "109", "keyInfo": "Amazon.co.uk", "marketplace": "89yRoGEnlEQ" },
-  { "id": "110", "keyInfo": "Shopify", "marketplace": "7-xZUipENQE" },
-  { "id": "111", "keyInfo": "eBay.com", "marketplace": "-yzAcONK7WY" },
+  { "id": "44", "keyInfo": "Amazon.co.uk", "marketplace": "PLdIuRhrKKsnRHj2Td0Uq5CaQO4C-MtASB" },
+  { "id": "45", "keyInfo": "Shopify", "marketplace": "7-xZUipENQE" },
+  { "id": "46", "keyInfo": "eBay.com", "marketplace": "duY-zti6vn0" },
   { "id": "119", "keyInfo": "eBay.com", "marketplace": "HnfpTMtfFk8" },
   { "id": "48", "keyInfo": "Shopify", "marketplace": "DotppT_JH3E" },
   { "id": "49", "keyInfo": "Amazon.com", "marketplace": "PLEmTTOfet46Pv_5rKpax_QLG0RpzFbdZj" },
